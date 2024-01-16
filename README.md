@@ -22,7 +22,7 @@ For `focal` devices:
 
     ```bash
     cd focal/
-    sudo dpkg -i libsystemd-dev_245.4-4ubuntu3.22_arm64.deb
+    sudo dpkg -i libsystemd0_245.4-4ubuntu3.22_arm64.deb
     sudo dpkg -i libsystemd-dev_245.4-4ubuntu3.22_arm64.deb
     sudo dpkg -i sc-ups-monitor_1.0.5_arm64.deb
     ```
