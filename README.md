@@ -15,7 +15,7 @@ For `bionic` devices:
     cd bionic/
     sudo dpkg -i libsystemd0_237-3ubuntu10.57_arm64.deb
     sudo dpkg -i libsystemd-dev_237-3ubuntu10.57_arm64.deb
-    sudo dpkg -i sc-ups-monitor_1.0.5_arm64.deb
+    sudo dpkg -i sc-ups-monitor_*.deb
     ```
 
 For `focal` devices:
@@ -24,7 +24,7 @@ For `focal` devices:
     cd focal/
     sudo dpkg -i libsystemd0_245.4-4ubuntu3.22_arm64.deb
     sudo dpkg -i libsystemd-dev_245.4-4ubuntu3.22_arm64.deb
-    sudo dpkg -i sc-ups-monitor_1.0.5_arm64.deb
+    sudo dpkg -i sc-ups-monitor_*.deb
     ```
 
 ## Notes
