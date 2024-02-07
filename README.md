@@ -13,6 +13,7 @@ For `bionic` devices:
 
     ```bash
     cd bionic/
+    sudo dpkg -i systemd_237-3ubuntu10.57_arm64.deb 
     sudo dpkg -i libsystemd0_237-3ubuntu10.57_arm64.deb
     sudo dpkg -i libsystemd-dev_237-3ubuntu10.57_arm64.deb
     sudo dpkg -i sc-ups-monitor_*.deb
